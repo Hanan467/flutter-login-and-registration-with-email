@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745976233891",
+    "project_id": "fapp-c7c95",
+    "storage_bucket": "fapp-c7c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745976233891:android:5ff656b5476ebf79fca416",
+        "android_client_info": {
+          "package_name": "com.example.idkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745976233891-4f2mc8pf90d0mugjoais1b59bqg5kgfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjatP67QhBECrJZ8WZRFkPkGnxq7OEVfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745976233891-4f2mc8pf90d0mugjoais1b59bqg5kgfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
